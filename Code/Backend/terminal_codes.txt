@@ -1,0 +1,2 @@
+sudo python3 /home/student/2020-2021-projectone-SoetaertThomas/Code/Backend/app.py
+sudo pkill python -9

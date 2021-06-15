@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="29.349" viewBox="0 0 160 29.349">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #3c46bb;
+      }
+
+      .cls-3 {
+        stroke: #03041a;
+      }
+
+      .cls-4, .cls-6 {
+        fill: #3c46bb;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        font-size: 12px;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: ITCAvantGardePro-Bk, ITC Avant Garde Gothic Pro;
+      }
+
+      .cls-5 {
+        fill: #03041a;
+      }
+
+      .cls-6 {
+        font-family: ITCAvantGardePro-Md, ITC Avant Garde Gothic Pro;
+        font-weight: 500;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        stroke: none;
+      }
+
+      .cls-8 {
+        fill: #3c46bb;
+      }
+
+      .cls-9 {
+        fill: #03041a;
+      }
+
+      .cls-10 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="logo_tekst" transform="translate(-24 -18.651)">
+    <g id="Logo" transform="translate(-21.303 -13.349)">
+      <g id="Polygon_3" data-name="Polygon 3" class="cls-1" transform="matrix(-0.899, -0.438, 0.438, -0.899, 52.493, 61.349)">
+        <path class="cls-7" d="M 7.190944194793701 7.499959468841553 L 0.8090142607688904 7.499959468841553 L 3.999979257583618 1.118029475212097 L 7.190944194793701 7.499959468841553 Z"/>
+        <path class="cls-8" d="M 3.999979257583618 2.236069679260254 L 1.618034362792969 6.999959468841553 L 6.381924152374268 6.999959468841553 L 3.999979257583618 2.236069679260254 M 3.999979257583618 -4.76837158203125e-07 L 7.999959468841553 7.999959468841553 L -9.5367431640625e-07 7.999959468841553 L 3.999979257583618 -4.76837158203125e-07 Z"/>
+      </g>
+      <g id="Polygon_2" data-name="Polygon 2" class="cls-1" transform="matrix(-0.899, 0.438, -0.438, -0.899, 90.697, 49.404)">
+        <path class="cls-7" d="M 7.190984725952148 7.5 L 0.8090147376060486 7.5 L 3.999999761581421 1.118029952049255 L 7.190984725952148 7.5 Z"/>
+        <path class="cls-9" d="M 3.999999761581421 2.236070156097412 L 1.618034839630127 7 L 6.381964683532715 7 L 3.999999761581421 2.236070156097412 M 3.999999761581421 0 L 8 8 L -4.76837158203125e-07 8 L 3.999999761581421 0 Z"/>
+      </g>
+      <g id="Rectangle_11" data-name="Rectangle 11" class="cls-2" transform="translate(48 40)">
+        <rect class="cls-7" width="24" height="16" rx="8"/>
+        <rect class="cls-10" x="0.5" y="0.5" width="23" height="15" rx="7.5"/>
+      </g>
+      <g id="Rectangle_12" data-name="Rectangle 12" class="cls-3" transform="translate(64 32)">
+        <rect class="cls-7" width="24" height="16" rx="8"/>
+        <rect class="cls-10" x="0.5" y="0.5" width="23" height="15" rx="7.5"/>
+      </g>
+      <text id="H" class="cls-4" transform="translate(60 53)"><tspan x="-4.098" y="0">H</tspan></text>
+      <text id="C" class="cls-5" transform="translate(76 45)"><tspan x="-4.878" y="0">C</tspan></text>
+    </g>
+    <text id="Home_Communication" data-name="Home Communication" class="cls-6" transform="translate(75 20)"><tspan x="0" y="9">Home </tspan><tspan x="0" y="25">Communication</tspan></text>
+  </g>
+</svg>
